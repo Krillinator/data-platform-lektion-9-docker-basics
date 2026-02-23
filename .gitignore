@@ -11,5 +11,7 @@ wheels/
 .env
 .env.*
 
+# git rm --cached FILENAME
+
 # TODO - Mac checkup
 .DS_store
